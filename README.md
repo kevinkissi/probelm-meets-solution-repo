@@ -1,4 +1,4 @@
 ### Probelm meets solution repo
-cracks at problems overtime
+cracks at problems over time
 
 see src for code snippets
