@@ -1,4 +1,4 @@
-### Probelm meets solution repo
-cracks at problems over time
+### Problem meets solution repo
+Cracks at problems over time
 
-see src for code snippets
+See src for code snippets
